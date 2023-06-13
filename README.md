@@ -1,5 +1,5 @@
 # jubilant-octo-waddle
-This repository is for collecting my orientation materials.
+This repository is for collecting important life skills.
 
 ## The First Ideal
 **1.** Life before death. 
